@@ -7,7 +7,7 @@
     { "id": 5, "title": "Post b", "body":"It's a great day!" },
     { "id": 6, "title": "Post c", "body":"Where's the bus"},
     { "id": 7, "title": "Post c", "body":"I'm not available today."},
-    { "id": 8, "title": "Post a", "body":"Who's there?"},
+    { "id": 8, "title": "Post a", "body":"Knock, knock. Who's there?"},
     { "id": 9, "title": "Post b", "body":"Couldn't we do this again?" },
     { "id": 10, "title": "Post c", "body":"I won't be going this time."}
   ],
