@@ -1,8 +1,15 @@
 {
   "posts": [
-    { "id": 1, "title": "Post a", "body":"this is my post 1"},
-    { "id": 2, "title": "Post b", "body":"this is my post 2" },
-    { "id": 3, "title": "Post c", "body":"this is my post 3"}
+    { "id": 1, "title": "Post a", "body":"That's a great idea."},
+    { "id": 2, "title": "Post b", "body":"Ain't nobody got time for that." },
+    { "id": 3, "title": "Post c", "body":"What's going on?"},
+    { "id": 4, "title": "Post a", "body":"Where's the pizza?"},
+    { "id": 5, "title": "Post b", "body":"It's a great day!" },
+    { "id": 6, "title": "Post c", "body":"Where's the bus"},
+    { "id": 7, "title": "Post c", "body":"I'm not available today."},
+    { "id": 8, "title": "Post a", "body":"Who's there?"},
+    { "id": 9, "title": "Post b", "body":"Couldn't we do this again?" },
+    { "id": 10, "title": "Post c", "body":"I won't be going this time."}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
